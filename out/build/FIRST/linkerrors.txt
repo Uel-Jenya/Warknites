@@ -1,0 +1,8 @@
+================================================================================
+Linker Errors
+Generated: 2026-09-22T13:18:36.766Z
+Total Errors: 1
+================================================================================
+
+[LNK1168] (MSVC)
+cannot open D:\Dev\cpp\Warknites\out\build\FIRST\Debug\Warknites.exe for writing [D:\Dev\cpp\Warknites\out\build\FIRST\Warknites.vcxproj]

@@ -1,0 +1,440 @@
+21:53:46: Creating resource group General
+21:53:46: Creating resource group Internal
+21:53:46: Creating resource group Autodetect
+21:53:46: SceneManagerFactory for type 'DefaultSceneManager' registered.
+21:53:46: Registering ResourceManager for type Material
+21:53:46: Registering ResourceManager for type Mesh
+21:53:46: Registering ResourceManager for type Mesh2
+21:53:46: Registering ResourceManager for type OldSkeleton
+21:53:46: MovableObjectFactory for type 'ParticleSystem' registered.
+21:53:46: ArchiveFactory for archive type FileSystem registered.
+21:53:46: ArchiveFactory for archive type Zip registered.
+21:53:46: ArchiveFactory for archive type EmbeddedZip registered.
+21:53:46: DDS codec registering
+21:53:46: FreeImage version: 3.18.0
+21:53:46: This program uses FreeImage, a free, open source image library supporting all common bitmap formats. See http://freeimage.sourceforge.net for details
+21:53:46: Supported formats: bmp,ico,jpg,jif,jpeg,jpe,jng,koa,iff,lbm,mng,pbm,pbm,pcd,pcx,pgm,pgm,png,ppm,ppm,ras,tga,targa,tif,tiff,wap,wbmp,wbm,psd,psb,cut,xbm,xpm,gif,hdr,g3,sgi,rgb,rgba,bw,exr,j2k,j2c,jp2,pfm,pct,pict,pic,3fr,arw,bay,bmq,cap,cine,cr2,crw,cs1,dc2,dcr,drf,dsc,dng,erf,fff,ia,iiq,k25,kc2,kdc,mdc,mef,mos,mrw,nef,nrw,orf,pef,ptx,pxn,qtk,raf,raw,rdc,rw2,rwl,rwz,sr2,srf,srw,sti,x3f,webp,jxr,wdp,hdp
+21:53:46: OITD codec registering
+21:53:46: Registering ResourceManager for type HighLevelGpuProgram
+21:53:46: MovableObjectFactory for type 'Decal' registered.
+21:53:46: MovableObjectFactory for type 'InternalCubemapProbe' registered.
+21:53:46: MovableObjectFactory for type 'Entity' registered.
+21:53:46: MovableObjectFactory for type 'Item' registered.
+21:53:46: MovableObjectFactory for type 'Light' registered.
+21:53:46: MovableObjectFactory for type 'ParticleSystem2' registered.
+21:53:46: MovableObjectFactory for type 'Rectangle2Dv2' registered.
+21:53:46: MovableObjectFactory for type 'BillboardSet' registered.
+21:53:46: MovableObjectFactory for type 'ManualObject2' registered.
+21:53:46: MovableObjectFactory for type 'BillboardChain' registered.
+21:53:46: MovableObjectFactory for type 'RibbonTrail' registered.
+21:53:46: MovableObjectFactory for type 'WireAabb' registered.
+21:53:46: Loading library .\RenderSystem_Direct3D11_d
+21:53:46: Installing plugin: D3D11 RenderSystem
+21:53:46: D3D11: Direct3D11 Rendering Subsystem created.
+21:53:46: D3D11: Driver Detection Starts
+21:53:46: D3D11: "Intel(R) HD Graphics 530"
+21:53:46: D3D11: "NVIDIA GeForce GTX 950M"
+21:53:46: D3D11: "Microsoft Basic Render Driver (software)"
+21:53:46: D3D11: Driver Detection Ends
+21:53:46: Plugin successfully installed
+21:53:46: Loading library .\RenderSystem_GL3Plus_d
+21:53:46: Installing plugin: GL 3+ RenderSystem
+21:53:46: OpenGL 3+ Rendering Subsystem created.
+21:53:46: Plugin successfully installed
+21:53:46: Loading library .\RenderSystem_Vulkan_d
+21:53:46: Installing plugin: Vulkan RenderSystem
+21:53:46: [Vulkan] Initializing VkInstance
+21:53:47: Found instance extension: VK_EXT_debug_report
+21:53:47: Found instance extension: VK_EXT_display_surface_counter
+21:53:47: Found instance extension: VK_KHR_get_physical_device_properties2
+21:53:47: Found instance extension: VK_KHR_get_surface_capabilities2
+21:53:47: Found instance extension: VK_KHR_surface
+21:53:47: Found instance extension: VK_KHR_win32_surface
+21:53:47: Found instance extension: VK_KHX_device_group_creation
+21:53:47: Found instance extension: VK_KHR_external_fence_capabilities
+21:53:47: Found instance extension: VK_KHR_external_memory_capabilities
+21:53:47: Found instance extension: VK_KHR_external_semaphore_capabilities
+21:53:47: Found instance extension: VK_NV_external_memory_capabilities
+21:53:47: Found instance layer: VK_LAYER_NV_optimus
+21:53:47: Found instance layer: VK_LAYER_LUNARG_standard_validation
+21:53:47: WARNING: VK_LAYER_KHRONOS_validation layer not present. Extension VK_EXT_debug_marker not found
+21:53:47: Requesting Instance Extension: VK_EXT_debug_report
+21:53:47: Requesting Instance Extension: VK_KHR_get_physical_device_properties2
+21:53:47: Requesting Instance Extension: VK_KHR_win32_surface
+21:53:47: Requesting Instance Extension: VK_KHR_surface
+21:53:47: WARNING: [loader] Code 0 : loader_get_manifest_files: Registry lookup failed to get layer manifest files.
+21:53:47: [Vulkan] Found 2 devices
+21:53:47: [Vulkan] Found devices:
+21:53:47: GeForce GTX 950M #0
+21:53:47: Intel(R) HD Graphics 530 #1
+21:53:47: Plugin successfully installed
+21:53:47: *-*-* OGRE Initialising
+21:53:47: *-*-* Version 4.0.0unstable (F)
+21:53:47: D3D11: RenderSystem Option: Rendering Device = (default)
+21:53:47: D3D11: RenderSystem Option: Allow NVPerfHUD = No
+21:53:47: D3D11: RenderSystem Option: Backbuffer Count = Auto
+21:53:47: D3D11: RenderSystem Option: Driver type = Hardware
+21:53:47: D3D11: RenderSystem Option: FSAA = 1x MSAA
+21:53:47: D3D11: RenderSystem Option: Fast Shader Build Hack = Yes
+21:53:47: D3D11: RenderSystem Option: Floating-point mode = Fastest
+21:53:47: D3D11: RenderSystem Option: Full Screen = Yes
+21:53:47: D3D11: RenderSystem Option: Information Queue Exceptions Bottom Level = Info (exception on any message)
+21:53:47: D3D11: RenderSystem Option: Max Requested Feature Levels = 11.1
+21:53:47: D3D11: RenderSystem Option: Min Requested Feature Levels = 9.1
+21:53:47: D3D11: RenderSystem Option: VSync = No
+21:53:47: D3D11: RenderSystem Option: VSync Interval = 1
+21:53:47: D3D11: RenderSystem Option: Vendor Extensions = Auto
+21:53:47: D3D11: RenderSystem Option: Video Mode = 1920 x 1080 @ 32-bit colour
+21:53:47: D3D11: RenderSystem Option: sRGB Gamma Conversion = Yes
+21:53:51: CPU Identifier & Features
+21:53:51: -------------------------
+21:53:51:  *   CPU ID: GenuineIntel: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz
+21:53:51:  *   Logical cores: 8
+21:53:51:  *      SSE: yes
+21:53:51:  *     SSE2: yes
+21:53:51:  *     SSE3: yes
+21:53:51:  *      MMX: yes
+21:53:51:  *   MMXEXT: yes
+21:53:51:  *    3DNOW: no
+21:53:51:  * 3DNOWEXT: no
+21:53:51:  *     CMOV: yes
+21:53:51:  *      TSC: yes
+21:53:51:  *      FPU: yes
+21:53:51:  *      PRO: yes
+21:53:51:  *       HT: no
+21:53:51: -------------------------
+21:53:51: *** Starting Win32GL Subsystem ***
+21:53:51: GL3PlusRenderSystem::_createRenderWindow "OgreRenderWindow", 500x250 windowed  miscParams: currentGLContext=true externalGLControl=true externalWindowHandle=853576 
+21:53:51: GL Version = 3.3.0.0
+21:53:51: GL_VERSION = 3.3.0 - Build 21.20.16.4678
+21:53:51: GL_VENDOR = Intel
+21:53:51: GL_RENDERER = Intel(R) HD Graphics 530
+21:53:51: GL_EXTENSIONS = 
+21:53:51: GL_3DFX_texture_compression_FXT1
+21:53:51: GL_AMD_depth_clamp_separate
+21:53:51: GL_AMD_vertex_shader_layer
+21:53:51: GL_AMD_vertex_shader_viewport_index
+21:53:51: GL_ARB_ES2_compatibility
+21:53:51: GL_ARB_ES3_compatibility
+21:53:51: GL_ARB_arrays_of_arrays
+21:53:51: GL_ARB_base_instance
+21:53:51: GL_ARB_blend_func_extended
+21:53:51: GL_ARB_buffer_storage
+21:53:51: GL_ARB_cl_event
+21:53:51: GL_ARB_clear_buffer_object
+21:53:51: GL_ARB_clear_texture
+21:53:51: GL_ARB_clip_control
+21:53:51: GL_ARB_color_buffer_float
+21:53:51: GL_ARB_compressed_texture_pixel_storage
+21:53:51: GL_ARB_compute_shader
+21:53:51: GL_ARB_conservative_depth
+21:53:51: GL_ARB_copy_buffer
+21:53:51: GL_ARB_copy_image
+21:53:51: GL_ARB_debug_output
+21:53:51: GL_ARB_depth_buffer_float
+21:53:51: GL_ARB_depth_clamp
+21:53:51: GL_ARB_depth_texture
+21:53:51: GL_ARB_derivative_control
+21:53:51: GL_ARB_draw_buffers
+21:53:51: GL_ARB_draw_buffers_blend
+21:53:51: GL_ARB_draw_elements_base_vertex
+21:53:51: GL_ARB_draw_indirect
+21:53:51: GL_ARB_draw_instanced
+21:53:51: GL_ARB_enhanced_layouts
+21:53:51: GL_ARB_explicit_attrib_location
+21:53:51: GL_ARB_explicit_uniform_location
+21:53:51: GL_ARB_fragment_coord_conventions
+21:53:51: GL_ARB_fragment_layer_viewport
+21:53:51: GL_ARB_fragment_program
+21:53:51: GL_ARB_fragment_program_shadow
+21:53:51: GL_ARB_fragment_shader
+21:53:51: GL_ARB_fragment_shader_interlock
+21:53:51: GL_ARB_framebuffer_no_attachments
+21:53:51: GL_ARB_framebuffer_object
+21:53:51: GL_ARB_framebuffer_sRGB
+21:53:51: GL_ARB_geometry_shader4
+21:53:51: GL_ARB_get_program_binary
+21:53:51: GL_ARB_gpu_shader5
+21:53:51: GL_ARB_gpu_shader_fp64
+21:53:51: GL_ARB_half_float_pixel
+21:53:51: GL_ARB_half_float_vertex
+21:53:51: GL_ARB_indirect_parameters
+21:53:51: GL_ARB_instanced_arrays
+21:53:51: GL_ARB_internalformat_query
+21:53:51: GL_ARB_internalformat_query2
+21:53:51: GL_ARB_invalidate_subdata
+21:53:51: GL_ARB_map_buffer_alignment
+21:53:51: GL_ARB_map_buffer_range
+21:53:51: GL_ARB_multi_bind
+21:53:51: GL_ARB_multi_draw_indirect
+21:53:51: GL_ARB_multisample
+21:53:51: GL_ARB_multitexture
+21:53:51: GL_ARB_occlusion_query
+21:53:51: GL_ARB_occlusion_query2
+21:53:51: GL_ARB_pixel_buffer_object
+21:53:51: GL_ARB_point_parameters
+21:53:51: GL_ARB_point_sprite
+21:53:51: GL_ARB_post_depth_coverage
+21:53:51: GL_ARB_program_interface_query
+21:53:51: GL_ARB_provoking_vertex
+21:53:51: GL_ARB_query_buffer_object
+21:53:51: GL_ARB_robust_buffer_access_behavior
+21:53:51: GL_ARB_robustness
+21:53:51: GL_ARB_robustness_isolation
+21:53:51: GL_ARB_sample_shading
+21:53:51: GL_ARB_sampler_objects
+21:53:51: GL_ARB_seamless_cube_map
+21:53:51: GL_ARB_seamless_cubemap_per_texture
+21:53:51: GL_ARB_separate_shader_objects
+21:53:51: GL_ARB_shader_atomic_counters
+21:53:51: GL_ARB_shader_bit_encoding
+21:53:51: GL_ARB_shader_draw_parameters
+21:53:51: GL_ARB_shader_image_load_store
+21:53:51: GL_ARB_shader_image_size
+21:53:51: GL_ARB_shader_objects
+21:53:51: GL_ARB_shader_precision
+21:53:51: GL_ARB_shader_stencil_export
+21:53:51: GL_ARB_shader_storage_buffer_object
+21:53:51: GL_ARB_shader_subroutine
+21:53:51: GL_ARB_shading_language_100
+21:53:51: GL_ARB_shading_language_420pack
+21:53:51: GL_ARB_shading_language_packing
+21:53:51: GL_ARB_shadow
+21:53:51: GL_ARB_stencil_texturing
+21:53:51: GL_ARB_sync
+21:53:51: GL_ARB_tessellation_shader
+21:53:51: GL_ARB_texture_barrier
+21:53:51: GL_ARB_texture_border_clamp
+21:53:51: GL_ARB_texture_buffer_object_rgb32
+21:53:51: GL_ARB_texture_buffer_range
+21:53:51: GL_ARB_texture_compression
+21:53:51: GL_ARB_texture_compression_bptc
+21:53:51: GL_ARB_texture_compression_rgtc
+21:53:51: GL_ARB_texture_cube_map
+21:53:51: GL_ARB_texture_cube_map_array
+21:53:51: GL_ARB_texture_env_add
+21:53:51: GL_ARB_texture_env_combine
+21:53:51: GL_ARB_texture_env_crossbar
+21:53:51: GL_ARB_texture_env_dot3
+21:53:51: GL_ARB_texture_float
+21:53:51: GL_ARB_texture_gather
+21:53:51: GL_ARB_texture_mirror_clamp_to_edge
+21:53:51: GL_ARB_texture_mirrored_repeat
+21:53:51: GL_ARB_texture_multisample
+21:53:51: GL_ARB_texture_non_power_of_two
+21:53:51: GL_ARB_texture_query_levels
+21:53:51: GL_ARB_texture_query_lod
+21:53:51: GL_ARB_texture_rectangle
+21:53:51: GL_ARB_texture_rg
+21:53:51: GL_ARB_texture_rgb10_a2ui
+21:53:51: GL_ARB_texture_stencil8
+21:53:51: GL_ARB_texture_storage
+21:53:51: GL_ARB_texture_storage_multisample
+21:53:51: GL_ARB_texture_swizzle
+21:53:51: GL_ARB_texture_view
+21:53:51: GL_ARB_timer_query
+21:53:51: GL_ARB_transform_feedback2
+21:53:51: GL_ARB_transform_feedback3
+21:53:51: GL_ARB_transform_feedback_instanced
+21:53:51: GL_ARB_transpose_matrix
+21:53:51: GL_ARB_uniform_buffer_object
+21:53:51: GL_ARB_vertex_array_bgra
+21:53:51: GL_ARB_vertex_array_object
+21:53:51: GL_ARB_vertex_attrib_64bit
+21:53:51: GL_ARB_vertex_attrib_binding
+21:53:51: GL_ARB_vertex_buffer_object
+21:53:51: GL_ARB_vertex_program
+21:53:51: GL_ARB_vertex_shader
+21:53:51: GL_ARB_vertex_type_10f_11f_11f_rev
+21:53:51: GL_ARB_vertex_type_2_10_10_10_rev
+21:53:51: GL_ARB_viewport_array
+21:53:51: GL_ARB_window_pos
+21:53:51: GL_ATI_separate_stencil
+21:53:51: GL_EXT_abgr
+21:53:51: GL_EXT_bgra
+21:53:51: GL_EXT_blend_color
+21:53:51: GL_EXT_blend_equation_separate
+21:53:51: GL_EXT_blend_func_separate
+21:53:51: GL_EXT_blend_minmax
+21:53:51: GL_EXT_blend_subtract
+21:53:51: GL_EXT_clip_volume_hint
+21:53:51: GL_EXT_compiled_vertex_array
+21:53:51: GL_EXT_direct_state_access
+21:53:51: GL_EXT_draw_buffers2
+21:53:51: GL_EXT_draw_range_elements
+21:53:51: GL_EXT_fog_coord
+21:53:51: GL_EXT_framebuffer_blit
+21:53:51: GL_EXT_framebuffer_multisample
+21:53:51: GL_EXT_framebuffer_object
+21:53:51: GL_EXT_geometry_shader4
+21:53:51: GL_EXT_gpu_program_parameters
+21:53:51: GL_EXT_gpu_shader4
+21:53:51: GL_EXT_multi_draw_arrays
+21:53:51: GL_EXT_packed_depth_stencil
+21:53:51: GL_EXT_packed_float
+21:53:51: GL_EXT_packed_pixels
+21:53:51: GL_EXT_polygon_offset_clamp
+21:53:51: GL_EXT_rescale_normal
+21:53:51: GL_EXT_secondary_color
+21:53:51: GL_EXT_separate_specular_color
+21:53:51: GL_EXT_shader_framebuffer_fetch
+21:53:51: GL_EXT_shader_integer_mix
+21:53:51: GL_EXT_shadow_funcs
+21:53:51: GL_EXT_stencil_two_side
+21:53:51: GL_EXT_stencil_wrap
+21:53:51: GL_EXT_texture3D
+21:53:51: GL_EXT_texture_array
+21:53:51: GL_EXT_texture_compression_s3tc
+21:53:51: GL_EXT_texture_edge_clamp
+21:53:51: GL_EXT_texture_env_add
+21:53:51: GL_EXT_texture_env_combine
+21:53:51: GL_EXT_texture_filter_anisotropic
+21:53:51: GL_EXT_texture_integer
+21:53:51: GL_EXT_texture_lod_bias
+21:53:51: GL_EXT_texture_rectangle
+21:53:51: GL_EXT_texture_sRGB
+21:53:51: GL_EXT_texture_sRGB_decode
+21:53:51: GL_EXT_texture_shared_exponent
+21:53:51: GL_EXT_texture_snorm
+21:53:51: GL_EXT_texture_storage
+21:53:51: GL_EXT_texture_swizzle
+21:53:51: GL_EXT_timer_query
+21:53:51: GL_EXT_transform_feedback
+21:53:51: GL_IBM_texture_mirrored_repeat
+21:53:51: GL_INTEL_conservative_rasterization
+21:53:51: GL_INTEL_fragment_shader_ordering
+21:53:51: GL_INTEL_framebuffer_CMAA
+21:53:51: GL_INTEL_map_texture
+21:53:51: GL_INTEL_multi_rate_fragment_shader
+21:53:51: GL_INTEL_performance_query
+21:53:51: GL_KHR_blend_equation_advanced
+21:53:51: GL_KHR_blend_equation_advanced_coherent
+21:53:51: GL_KHR_debug
+21:53:51: GL_KHR_texture_compression_astc_hdr
+21:53:51: GL_KHR_texture_compression_astc_ldr
+21:53:51: GL_NV_blend_square
+21:53:51: GL_NV_conditional_render
+21:53:51: GL_NV_primitive_restart
+21:53:51: GL_NV_texgen_reflection
+21:53:51: GL_SGIS_generate_mipmap
+21:53:51: GL_SGIS_texture_edge_clamp
+21:53:51: GL_SGIS_texture_lod
+21:53:51: GL_SUN_multi_draw_arrays
+21:53:51: GL_WIN_swap_hint
+21:53:51: WGL_EXT_depth_float
+21:53:51: WGL_ARB_buffer_region
+21:53:51: WGL_ARB_extensions_string
+21:53:51: WGL_ARB_make_current_read
+21:53:51: WGL_ARB_pixel_format
+21:53:51: WGL_ARB_pbuffer
+21:53:51: WGL_EXT_extensions_string
+21:53:51: WGL_EXT_swap_control
+21:53:51: WGL_ARB_multisample
+21:53:51: WGL_ARB_pixel_format_float
+21:53:51: WGL_ARB_framebuffer_sRGB
+21:53:51: WGL_ARB_create_context
+21:53:51: WGL_ARB_create_context_profile
+21:53:51: WGL_EXT_pixel_format_packed_float
+21:53:51: WGL_EXT_create_context_es_profile
+21:53:51: WGL_EXT_create_context_es2_profile
+21:53:51: WGL_NV_DX_interop
+21:53:51: WGL_INTEL_cl_sharing
+21:53:51: WGL_NV_DX_interop2
+21:53:51: WGL_ARB_create_context_robustness
+21:53:51: Supported WGL extensions: WGL_EXT_depth_float WGL_ARB_buffer_region WGL_ARB_extensions_string WGL_ARB_make_current_read WGL_ARB_pixel_format WGL_ARB_pbuffer WGL_EXT_extensions_string WGL_EXT_swap_control WGL_ARB_multisample WGL_ARB_pixel_format_float WGL_ARB_framebuffer_sRGB WGL_ARB_create_context WGL_ARB_create_context_profile WGL_EXT_pixel_format_packed_float WGL_EXT_create_context_es_profile WGL_EXT_create_context_es2_profile WGL_NV_DX_interop WGL_INTEL_cl_sharing WGL_NV_DX_interop2 WGL_ARB_create_context_robustness 
+21:53:51: **************************************
+21:53:51: ***   OpenGL 3+ Renderer Started   ***
+21:53:51: **************************************
+21:53:52: Registering ResourceManager for type GpuProgram
+21:53:52: RenderSystem capabilities
+21:53:52: -------------------------
+21:53:52: RenderSystem Name: OpenGL 3+ Rendering Subsystem
+21:53:52: GPU Vendor: intel
+21:53:52: Device Name: Intel(R) HD Graphics 530
+21:53:52: Driver Version: 3.3.0.0
+21:53:52:  * Fixed function pipeline: no
+21:53:52:  * Hardware generation of mipmaps: no
+21:53:52:  * Texture blending: yes
+21:53:52:  * Anisotropic texture filtering: yes
+21:53:52:  * Dot product texture operation: yes
+21:53:52:  * Cube mapping: yes
+21:53:52:  * Hardware stencil buffer: yes
+21:53:52:    - Stencil depth: 8
+21:53:52:    - Two sided stencil support: yes
+21:53:52:    - Wrap stencil values: yes
+21:53:52:  * Hardware vertex / index buffers: yes
+21:53:52:  * 32-bit index buffers: yes
+21:53:52:  * Vertex programs: yes
+21:53:52:  * Number of floating-point constants for vertex programs: 4096
+21:53:52:  * Number of integer constants for vertex programs: 4096
+21:53:52:  * Number of boolean constants for vertex programs: 4096
+21:53:52:  * Fragment programs: yes
+21:53:52:  * Number of floating-point constants for fragment programs: 4096
+21:53:52:  * Number of integer constants for fragment programs: 4096
+21:53:52:  * Number of boolean constants for fragment programs: 4096
+21:53:52:  * Geometry programs: yes
+21:53:52:  * Number of floating-point constants for geometry programs: 4096
+21:53:52:  * Number of integer constants for geometry programs: 4096
+21:53:52:  * Number of boolean constants for geometry programs: 4096
+21:53:52:  * Tessellation Hull programs: yes
+21:53:52:  * Number of floating-point constants for tessellation hull programs: 4096
+21:53:52:  * Number of integer constants for tessellation hull programs: 4096
+21:53:52:  * Number of boolean constants for tessellation hull programs: 4096
+21:53:52:  * Tessellation Domain programs: yes
+21:53:52:  * Number of floating-point constants for tessellation domain programs: 4096
+21:53:52:  * Number of integer constants for tessellation domain programs: 4096
+21:53:52:  * Number of boolean constants for tessellation domain programs: 4096
+21:53:52:  * Compute programs: yes
+21:53:52:  * Number of floating-point constants for compute programs: 4096
+21:53:52:  * Number of integer constants for compute programs: 4096
+21:53:52:  * Number of boolean constants for compute programs: 4096
+21:53:52:  * Supported Shader Profiles: glsl glsl130 glsl140 glsl150 glsl330
+21:53:52:  * Texture Compression: yes
+21:53:52:    - DXT: yes
+21:53:52:    - VTC: no
+21:53:52:    - PVRTC: no
+21:53:52:    - ATC: no
+21:53:52:    - ETC1: no
+21:53:52:    - ETC2: yes
+21:53:52:    - BC4/BC5: yes
+21:53:52:    - BC6H/BC7: yes
+21:53:52:    - ASTC: yes
+21:53:52:  * Hardware Occlusion Query: yes
+21:53:52:  * User clip planes: yes
+21:53:52:  * VET_UBYTE4 vertex element type: yes
+21:53:52:  * Infinite far plane projection: yes
+21:53:52:  * Hardware render-to-texture: yes
+21:53:52:  * Floating point textures: yes
+21:53:52:  * Non-power-of-two textures: yes
+21:53:52:  * 1d textures: yes
+21:53:52:  * Volume textures: yes
+21:53:52:  * Max Texture resolution (2D) 16384
+21:53:52:  * Max Texture resolution (3D) 2048
+21:53:52:  * Max Texture resolution (Cubemaps) 16384
+21:53:52:  * Multiple Render Targets: 8
+21:53:52:    - With different bit depths: yes
+21:53:52:  * Point Sprites: yes
+21:53:52:  * Extended point parameters: yes
+21:53:52:  * Max Point Size: 255
+21:53:52:  * Vertex texture fetch: yes
+21:53:52:  * Number of world matrices: 0
+21:53:52:  * Number of texture units: 16
+21:53:52:  * Stencil buffer depth: 8
+21:53:52:  * Number of vertex blend matrices: 0
+21:53:52:    - Max vertex textures: 32
+21:53:52:    - Vertex textures shared: yes
+21:53:52:  * Render to Vertex Buffer : yes
+21:53:52:  * Hardware Atomic Counters: yes
+21:53:52:  * Shader 16-bit floating point (half): no
+21:53:52:  * Compute max threads per threadgroup per axis: 1024, 1024, 64
+21:53:52:  * Compute max threads per threadgroup total: 1024
+21:53:52:  * GL 1.5 without VBO workaround: no
+21:53:52:  * Frame Buffer objects: yes
+21:53:52:  * Frame Buffer objects (ARB extension): no
+21:53:52:  * Frame Buffer objects (ATI extension): no
+21:53:52:  * PBuffer support: no
+21:53:52:  * GL 1.5 without HW-occlusion workaround: no
+21:53:52:  * Vertex Array Objects: yes
+21:53:52:  * Using Reverse Z: yes
+21:53:52: DefaultWorkQueue('Root') initialising on thread main.
+21:53:52: Particle Renderer Type 'billboard' registered

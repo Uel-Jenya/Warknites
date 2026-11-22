@@ -1,0 +1,3 @@
+D:/Dev/cpp/Warknites/out/build/FIRST/CMakeFiles/Warknites.dir
+D:/Dev/cpp/Warknites/out/build/FIRST/CMakeFiles/ALL_BUILD.dir
+D:/Dev/cpp/Warknites/out/build/FIRST/CMakeFiles/ZERO_CHECK.dir
